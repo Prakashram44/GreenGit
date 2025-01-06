@@ -26,4 +26,8 @@ public class GreenGit {
 		System.out.println("Loan");
 	
 	}
+public void account() {
+		
+	}
+
 }
