@@ -14,4 +14,16 @@ public class GreenGit {
 	
 	}
 
+
+	public void credit() {
+		
+		System.out.println("Credit");
+	
+	}
+	
+	public void loan() {
+		
+		System.out.println("Loan");
+	
+	}
 }
